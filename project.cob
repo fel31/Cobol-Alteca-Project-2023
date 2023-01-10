@@ -72,7 +72,7 @@
                PERFORM 01-READFILES
            END-PERFORM
 
-           PERFORM RESULTS
+           PERFORM 01-RESULTS
            .
 
        02-ENDPROG.
