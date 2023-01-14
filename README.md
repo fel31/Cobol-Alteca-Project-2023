@@ -28,25 +28,24 @@ Si tout est ok, la chaine de mise peut commencer : il faudra respecter une archi
   
 ## ETAPES D'IMPLEMENTATIONS DU PROJET :
 
-1. [ Contrôle de la forme du fichier](https://github.com/fel31/Cobol-Alteca-Project-2023/tree/main/1-ReglesDeGestion): 
+1. Contrôle de la forme du fichier
 
-3. [Cas de Tests de controle gestion fichier](https://github.com/fel31/Cobol-Alteca-Project-2023/tree/main/1-ReglesDeGestion/FichiersDeTests)
+3. Cas de Tests de controle gestion fichier
 
-4. [Création objet DB2](https://github.com/fel31/Cobol-Alteca-Project-2023/tree/main/2-OBJETS%20DB2)
-
+4. Création objet DB2
 5. génération des DLCGEN
 
-6. [implémentation des ascesseurs](https://github.com/fel31/Cobol-Alteca-Project-2023/tree/main/assecceurs%20PH)
+6. implémentation des ascesseurs
 
 7. implémentation du programme de tests des accesseurs 
 
-8. [Tests unitaires Ascesseurs]([https://github.com/fel31/Cobol-Alteca-Project-2023/tree/main/1-ReglesDeGestion/FichiersDeTests](https://github.com/fel31/Cobol-Alteca-Project-2023/tree/main/accesseurs%20PH)
+8. Tests unitaires Ascesseurs
 
-9. [implémentation module métier]
+9. implémentation module métier
 
-10. [implémentation module applicative](https://github.com/fel31/Cobol-Alteca-Project-2023/tree/main/composant%20CA)
+10. implémentation module applicative
 11. tests d'intégrations à partir d'un fichier séquentiel. 
 
-12. [convertion du flux XML](https://github.com/fel31/Cobol-Alteca-Project-2023/tree/main/XML%20convert)
+12. convertion du flux XML
 
 14. Tests d'intégration à partir d'un fichier XML.
