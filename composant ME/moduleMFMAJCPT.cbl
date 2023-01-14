@@ -64,10 +64,12 @@
            IF ZF-CODRET = '00'
              PERFORM MAJ-HISTORIQUE
            END-IF
-
+           .
+      
        02A-MAJ-SOLDE.
            MOVE 'UPD' TO ZC-CPT-FONCTION
-           CALL 'MACPT'  USING CPT-ZCMA.
+           CALL 'MACPT'  USING CPT-ZCMA
+           .
       *****MANQUE DES CHOSES ICII ********************
       *******MANQUE DES PARAPH
       ********** PARAGRAPHS VERIFICATION **************
