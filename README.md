@@ -1,7 +1,7 @@
 # Cobol-Alteca-Project-2023. : CHAINE DE MISE A JOUR DES COMPTES 
 
 
-## Cadre du projet : 
+## Cadre du projet 
 
 
 Conception d'un module de chaine de mise à jours des comptes bancaires envoyés par différents organismes financiers. Les tables de la base de données impactés seront :
@@ -26,13 +26,14 @@ Si tout est ok, la chaine de mise peut commencer : il faudra respecter une archi
   `* un accesseur doit pouvoir interroger une seule table de la base de données. Il est unique à une table et il est le seul module du programme à pouvoir effectuer des requêtes sur cette table.`
   
   
-## ETAPES D'IMPLEMENTATIONS DU PROJET :
+## ETAPES D'IMPLEMENTATIONS DU PROJET 
 
 1. Contrôle de la forme du fichier
 
 3. Cas de Tests de controle gestion fichier
 
 4. Création objet DB2
+
 5. génération des DLCGEN
 
 6. implémentation des ascesseurs
@@ -44,6 +45,7 @@ Si tout est ok, la chaine de mise peut commencer : il faudra respecter une archi
 9. implémentation module métier
 
 10. implémentation module applicative
+ 
 11. tests d'intégrations à partir d'un fichier séquentiel. 
 
 12. convertion du flux XML
