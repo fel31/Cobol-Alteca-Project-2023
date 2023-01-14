@@ -5,10 +5,11 @@
 
 
 Conception d'un module de chaine de mise à jours des comptes bancaires envoyés par différents organismes financiers. Les tables de la base de données impactés seront :
-####table de mise à jour des comptes
-####table historique
-####table des opérations
-####table des devices
+####
+* table de mise à jour des comptes
+* table historique
+* table des opérations
+* table des devices
 
 Le programme prend en entrée un fichier séquentiel ou un fichier xml.
 
