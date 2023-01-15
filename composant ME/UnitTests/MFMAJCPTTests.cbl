@@ -1,5 +1,5 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID MFMAJCPT.
+       PROGRAM-ID. MFMAJCPT.
 
        DATA DIVISION.
 
@@ -107,6 +107,11 @@
            STOP RUN
            .
 
+      ********** ASSIGNMENT **************************
+
+       
+
+
       ********** PARAGRAPHS TREATMENT *****************
        02A-TREATMENT.
            IF CODEDEBIT
@@ -135,5 +140,6 @@
            MOVE 'INS' TO CPT-FONCTION 
            CALL 'MAHIS' USING HIS-ZCMA
            MOVE HIS-RETOUR TO ZF-RETOUR
+           
            .
      
