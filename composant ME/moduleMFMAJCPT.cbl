@@ -70,6 +70,4 @@
            MOVE 'UPD' TO ZC-CPT-FONCTION
            CALL 'MACPT'  USING CPT-ZCMA
            .
-      *****MANQUE DES CHOSES ICII ********************
-      *******MANQUE DES PARAPH
-      ********** PARAGRAPHS VERIFICATION **************
+     
