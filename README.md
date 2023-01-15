@@ -50,4 +50,6 @@ Si tout est ok, la chaine de mise peut commencer : il faudra respecter une archi
 
 12. convertion du flux XML
 
-14. Tests d'intégration à partir d'un fichier XML.
+13. Tests d'intégration à partir d'un fichier XML.
+
+14.livrable
