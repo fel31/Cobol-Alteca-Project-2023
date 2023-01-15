@@ -52,4 +52,4 @@ Si tout est ok, la chaine de mise peut commencer : il faudra respecter une archi
 
 13. Tests d'intégration à partir d'un fichier XML.
 
-14.livrable
+14. livrable
