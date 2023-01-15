@@ -1,0 +1,16 @@
+#"C:\Program Files (x86)\Micro Focus\Visual COBOL\bin\cobol.exe" C:\Users\darap\eclipse-workspace2\UnitTestsMFMAJCPT\TestCreditPositifnb002.cbl DELINT USEC:\Users\darap\eclipse-workspace2\UnitTestsMFMAJCPT\New_Configuration.bin\mfant15502720160943562416.dir ;
+^C:\Users\darap\eclipse-workspace2\UnitTestsMFMAJCPT\TestCreditPositifnb002.cbl
+!C:\Users\darap\eclipse-workspace2\UnitTestsMFMAJCPT\mfunit_prototypes.cpy
+?C:\Users\darap\eclipse-workspace2\UnitTestsMFMAJCPT\mfunit_prototypes.cpy
+!$COBCPY\mfunit_prototypes.cpy
++"C:\Program Files (x86)\Micro Focus\Visual COBOL\cpylib\mfunit_prototypes.cpy"
+!C:\Users\darap\eclipse-workspace2\UnitTestsMFMAJCPT\mfunit.cpy
+?C:\Users\darap\eclipse-workspace2\UnitTestsMFMAJCPT\mfunit.cpy
+!$COBCPY\mfunit.cpy
++"C:\Program Files (x86)\Micro Focus\Visual COBOL\cpylib\mfunit.cpy"
+-"C:\Program Files (x86)\Micro Focus\Visual COBOL\cpylib\mfunit.cpy"
+-"C:\Program Files (x86)\Micro Focus\Visual COBOL\cpylib\mfunit_prototypes.cpy"
+!C:\Users\darap\eclipse-workspace2\UnitTestsMFMAJCPT\mfunit.cpy
+?C:\Users\darap\eclipse-workspace2\UnitTestsMFMAJCPT\mfunit.cpy
+!$COBCPY\mfunit.cpy
++"C:\Program Files (x86)\Micro Focus\Visual COBOL\cpylib\mfunit.cpy"
