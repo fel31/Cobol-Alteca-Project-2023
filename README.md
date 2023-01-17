@@ -34,7 +34,7 @@ Si tout est ok, la chaine de mise peut commencer : il faudra respecter une archi
 
 4. Création objet DB2
 
-5. Génération des DCLGEN
+5. Génération des DCLGENs
 
 6. Implémentation des ascesseurs
 
@@ -47,11 +47,13 @@ Si tout est ok, la chaine de mise peut commencer : il faudra respecter une archi
 10. Tests unitaires module métier
 
 12. Implémentation module applicative
+
+13. Scénario de tests unitaires module applicative et tests
  
-13. Tests d'intégrations à partir d'un fichier séquentiel. 
+14. Tests d'intégrations à partir d'un fichier séquentiel. 
 
-14. Convertion du  type flux XML en flux Sequentiel
+15. Convertion du  type flux XML en flux Sequentiel
 
-15. Tests d'intégration à partir d'un fichier XML.
+16. Tests d'intégration à partir d'un fichier XML.
 
 16. livrable
