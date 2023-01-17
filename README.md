@@ -1,4 +1,4 @@
-# Cobol-Alteca-Project-2023. : CHAINE DE MISE A JOUR DES COMPTES 
+# Cobol-Alteca-Project-2023 : CHAINE DE MISE A JOUR DES COMPTES 
 
 
 ## Cadre du projet 
