@@ -30,11 +30,11 @@ Si tout est ok, la chaine de mise peut commencer : il faudra respecter une archi
 
 1. Contrôle de la forme du fichier
 
-3. Cas de Tests de controle gestion fichier
+3. Cas de Tests de contrôle gestion fichier
 
 4. Création objet DB2
 
-5. Génération des DLCGEN
+5. Génération des DCLGEN
 
 6. Implémentation des ascesseurs
 
@@ -44,12 +44,14 @@ Si tout est ok, la chaine de mise peut commencer : il faudra respecter une archi
 
 9. Implémentation module métier
 
-10. Implémentation module applicative
+10. Tests unitaires module métier
+
+12. Implémentation module applicative
  
-11. Tests d'intégrations à partir d'un fichier séquentiel. 
+13. Tests d'intégrations à partir d'un fichier séquentiel. 
 
-12. Convertion du flux XML
+14. Convertion du  type flux XML en flux Sequentiel
 
-13. Tests d'intégration à partir d'un fichier XML.
+15. Tests d'intégration à partir d'un fichier XML.
 
-14. livrable
+16. livrable
